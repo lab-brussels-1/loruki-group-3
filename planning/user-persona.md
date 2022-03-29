@@ -1,7 +1,7 @@
 # User Personas
 
-**The project objective** : To explain to Beginner Programmers the reasons of learn
-Javascript
+**The project objective** : To explain to Beginner Programmers the reasons of
+learn Javascript
 
 ## Beginner programmer
 
@@ -11,4 +11,3 @@ Javascript
 - **Scenario**: Figure out what Javascript allows beginners to create.
 
 ![wire frame]('/../../assets/user.png)
-  
