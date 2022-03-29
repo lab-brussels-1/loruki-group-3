@@ -5,7 +5,7 @@
 
 ## Setup
 
-- [X] html file for Title, Menu, Main info and footer
+- [x] html file for Title, Menu, Main info and footer
 - [ ] CSS file for Title, Menu, Main info and footer
 - [ ] CSS file is linked to HTML
 
