@@ -10,12 +10,6 @@
   margin: 0;
 }
 
-body {
-  font-family: "Lato", "sans-serif";
-  color: #333;
-  line-height: 1.6;
-}
-
 ul {
   list-style-type: none;
 }
@@ -32,7 +26,8 @@ h2 {
   margin: 10px 0;
 }
 
-/* Nav bar styling*/
+/* Nav bar styling */
+
 .navbar {
   background-color: var(--primary-color);
   color: white;
@@ -55,22 +50,18 @@ h2 {
   border-right: 2px white solid;
 }
 
-.navbar .flex {
-  justify-content: space-between;
-}
-
-/*Showcase*/
-
-/*Utilities*/
-
-.container {
-  max-width: 1100px;
-  margin: 0 auto;
-}
-
 .flex {
   display: flex;
   justify-content: center;
   align-items: center;
   height: 100;
+}
+
+.navbar .flex {
+  justify-content: space-between;
+}
+
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
 }
