@@ -5,9 +5,9 @@ learn Javascript
 
 ## Beginner programmer
 
-- **Bio**: The importance of learning Javascript
-- **Needs/Goals**: To know more about this program language
-- **Frustrations**: Beginner often get stuck with new language
+- **Bio**: The importance of learning Javascript.
+- **Needs/Goals**: To know more about this programming language.
+- **Frustrations**: Beginner often get stuck with new language.
 - **Scenario**: Figure out what Javascript allows beginners to create.
 
 ![wire frame]('/../../assets/user.png)
