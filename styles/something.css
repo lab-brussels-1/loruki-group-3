@@ -31,6 +31,7 @@ h2 {
   line-height: 1.2;
   margin: 10px 0;
 }
+
 /* Nav bar styling*/
 .navbar {
   background-color: var(--primary-color);
@@ -57,9 +58,11 @@ h2 {
 .navbar .flex {
   justify-content: space-between;
 }
+
 /*Showcase*/
 
 /*Utilities*/
+
 .container {
   max-width: 1100px;
   margin: 0 auto;
