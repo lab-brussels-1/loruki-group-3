@@ -20,6 +20,17 @@ Some boundaries around our project.
   > Sickness: Headaches, tiredness. Josee is not connecting on the 07/04:
   > Commemoration of the Rwandan genocide
 
+- Availability
+
+  > Most of the people has everyday job and are available in the evening.
+  > Availability is very important for the project to run. Availability for the
+  > group meeting is essential
+
+- Natural causes
+
+  > Any external fact that migh happen that we don't have control on: Headaches,
+  > Unplanned babysitting, sickness, accident, etc. All those can slow us down.
+
 ## Internal: Involuntary
 
 - Technology
@@ -52,8 +63,13 @@ Some boundaries around our project.
 
   > We all depend of someone else to review our work. Hence we need to work on
   > our own part as soon as possible so we do not create delays for others.
+ 
 
 - Work/life balance
 
   > We all have other matters to attend besides the project Making it difficult
-  > to be available at all times.
+  
+  > to be available at all times.  
+  > Since we all depend of someone else to review our work. We also require time
+  > to discuss in group about what we need. That might complicate our efficiency
+  > in time.
