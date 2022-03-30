@@ -6,8 +6,19 @@ Some boundaries around our project.
 
 - Time
 
-  > Time run fast. We have a lot to learn and a lot of work to accomplish for
-  > the website to work.
+  > We have a lot to learn and a lot of work to accomplish for the website to
+  > work.
+
+- Availability
+
+  > Sometimes we are not available at the same time, thus not everyone attend
+  > the meeting.
+
+- Things we don't control
+
+  > Madhu is traveling to India. She might not be connected all the time.
+  > Sickness: Headaches, tiredness. Josee is not connecting on the 07/04:
+  > Commemoration of the Rwandan genocide
 
 - Availability
 
@@ -20,17 +31,12 @@ Some boundaries around our project.
   > Any external fact that migh happen that we don't have control on: Headaches,
   > Unplanned babysitting, sickness, accident, etc. All those can slow us down.
 
-- Language
-  > Communication is tough. English is not our first language, although we use
-  > that to communicate. Sometimes we don't find the proper word to express an
-  > idea.
-
 ## Internal: Involuntary
 
 - Technology
 
   > Computer slowing down or getting stuck. We do not master github and VSCode
-  > perfectly yet
+  > perfectly yet, nor HTML and CSS.
 
 - Issues
 
@@ -55,8 +61,8 @@ Some boundaries around our project.
 
 - Dependency
 
-  > Team is all about being dependent on each other. Hence we need to work on
-  > our own part as soon as possible so we do not create dependency for others.
+  > We all depend of someone else to review our work. Hence we need to work on
+  > our own part as soon as possible so we do not create delays for others.
 
 - Work/life balance
 

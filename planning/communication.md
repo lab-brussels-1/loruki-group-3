@@ -22,7 +22,7 @@
 | Saturday 02/04 at 10am  | Zoom | Update on how the work is going and help each other.     |
 | Monday 04/04 at 6pm     | Zoom | About planning the week and setup Project schedules.     |
 | Tuesday 05/04 at 2pm    | Zoom | Update on how the work of CSS and HTML is going.         |
-| Wednesday 06/04 at 10am | Zoom | Update on how the work is going.                         |
+| Wednesday 06/04 at 10am | Zoom | Update on the work done on files and CSS and HTML tasks. |
 | Thursday 07/04 at 10am  | Zoom | Update on the work done on files and CSS and HTML tasks. |
 | Friday 08/04 at 6pm     | Zoom | Final update an redaction of retrospective               |
 | Saturday 09/04 at 10am  | Zoom | Final check for the overall work.                        |
@@ -44,12 +44,12 @@ How often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day         |   Monday    |  Tuesday   |  Wednesday  |  Thursday   |   Friday   |  Saturday   |
-| ----------- | :---------: | :--------: | :---------: | :---------: | :--------: | :---------: |
-| _Josee_     | 10am - 12pm | 10am - 4pm | 10am - 11pm | 10am - 11pm | 10am - 4pm | 10am - 11pm |
-| _Alexander_ | 7pm - 11pm  | 7pm - 11pm | 7pm - 11pm  | 7pm - 11pm  | 7pm - 11pm | 7pm - 11pm  |
-| _Nazgul_    |  7pm - 2am  | 7pm - 11pm |  7pm - 2am  |  1pm - 6pm  | 7pm - 11pm | 7pm - 11pm  |
-| _Madhu_     | 7pm - 11pm  | 7pm - 11pm | 7pm - 11pm  | 7pm - 11pm  | 7pm - 11pm | 7pm - 11pm  |
+| Day         |   Monday    |   Tuesday   |  Wednesday  |  Thursday   |   Friday    |   Saturday   |
+| ----------- | :---------: | :---------: | :---------: | :---------: | :---------: | :----------: |
+| _Josee_     | 10am - 12pm | 10am - 8pm  | 10am - 11pm | 10am - 11pm | 10am - 4pm  | 10am - 11pm  |
+| _Alexander_ | 7am - 11pm  | 7am - 11pm  | 7am - 11pm  | 8am - 11pm  | 8am - 11pm  |  8am - 11pm  |
+| _Nazgul_    | 10am - 7pm  | 10am - 11pm | 10am - 2am  | 10am - 6pm  | 10am - 11pm | 10am - 11pm  |
+| _Madhu_     | 10am - 11pm | 10am - 11pm | 10am - 11pm | 10am - 11pm | 10am - 11pm | 10 am - 11pm |
 
 ## Asking for Help
 
