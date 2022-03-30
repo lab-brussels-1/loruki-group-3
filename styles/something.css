@@ -1,67 +1,221 @@
+
 @import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap");
 
-:root {
-  --primary-color: #ed0404;
+:root{
+--primary-color: rgba(223, 10, 10, 0.918);
 }
-
-* {
+*{
   box-sizing: border-box;
   padding: 0;
   margin: 0;
 }
-
+body{
+  font-family: 'lato' , sans-serif;
+  color:#333;
+  line-height: 1.6;
+}
 ul {
   list-style-type: none;
 }
-
+li {
+  font-size: 20px ;
+  position: relative;
+}
 a {
   text-decoration: none;
   color: #333;
 }
-
 h1,
 h2 {
   font-weight: 300;
   line-height: 1.2;
   margin: 10px 0;
+  font-size: 35px;
 }
-
-/* Nav bar styling */
-
+P {
+  margin : 10px 0;
+}
+image {
+  width : 100%;
+}
+/* navbar */
 .navbar {
-  background-color: var(--primary-color);
-  color: white;
+  background-color: rgba(105, 134, 51, 0.836);
+  color: #fff;
   height: 70px;
 }
-
 .navbar ul {
   display: flex;
 }
-
 .navbar a {
   color: white;
   padding: 10px;
+  margin: 0 5px;
 }
-
 .navbar a:hover {
   border-bottom: 2px white solid;
   border-top: 2px white solid;
   border-left: 2px white solid;
   border-right: 2px white solid;
 }
-
+.navbar .flex {
+  justify-content: space-between;
+}
+/* showcase */
+.showcase {
+  height: 400 px;
+  background-color: var(--primary-color);
+  color: #fff;
+  position: relative;
+}
+.showcase-h1 {
+  font-size: 40px;
+}
+.showcase-p {
+  margin : 20px 0;
+}
+.showcase a {
+background-color: green
+}
+.showcase .grid {
+  overflow: visible;
+  grid-template-columns: 55% auto;
+  gap: 30px;
+}
+.showcase-text {
+  animation: slideInFromLeft 1s ease-in;
+}
+.showcase-form {
+  position: relative;
+  top: 60px;
+  height: 350px;
+  width: 400px;
+  padding: 40px;
+  z-index: 100;
+  justify-self: flex-end;
+  animation: slideInFrontRight 1s ease-in;
+}
+.showcase-form .form-control {
+  margin: 30px 0;
+}
+.showcase-form input[type="text"],
+.showcase-form input[type="Email"] {
+  border: 0;
+  border-bottom: 1px solid #b4becb;
+  width: 100%;
+  padding: 3px;
+  font-size: 16px;
+}
+.showcase-form input:focus {
+  outline: none;
+}
+.showcase::before,
+.showcase::after {
+  content: "";
+  position: absolute;
+  height: 100px;
+  bottom: -70px;
+  right: 0;
+  left: 0;
+  background-color: #fff;
+  transform: skewY(-3deg);
+  -webkit-transform: skewY(-3deg);
+  -moz-transform: skewY(-3deg);
+  -ms-transform: skewY(-3deg);
+}
+/* utilities */
+.container {
+  max-width: 1100px;
+  margin : 0 auto;
+  padding: 0 40px;
+  overflow: auto;
+}
 .flex {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100;
+  height: 100%;
+}
+.grid {
+  display: grid;
+  grid-template-columns:repeat(2, 1fr);
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+.card {
+  background-color: #fff;
+  border-radius:10px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+  color: #333;
+  padding: 20px;
+  margin: 10px;
+}
+.btn {
+  display: inline-block;
+  padding: 10px 30px;
+  cursor: pointer;
+  background-color: green;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+}
+.btn-outline {
+  background-color: transparent;
+  border: 1px #fff solid;
+}
+.btn:hover {
+  transform: scale(0.98);
+}
+/*animation*/
+@keyframes slideInFromLeft {
+   0%  {
+      transform: translateX(-100%);
+    }
+
+  100%  {
+      transform: translateX(0%);
+    }
 }
 
-.navbar .flex {
-  justify-content: space-between;
-}
+@keyframes slideInFromRight {
+  0%  {
+      transform: translateX(100%);
+  }
 
-.container {
-  max-width: 1100px;
-  margin: 0 auto;
+  100%  {
+      transform: translateX(0%);
+    }
+}
+@keyframes slideInFromTop {
+  0%  {
+        transform: translateY(-100%);
+    }
+
+  100%  {
+        transform: translateX(0%);
+      }
+}
+@keyframes slideInFromBottom {
+  0%  {
+      transform: translateY(100%);
+    }
+
+  100%  {
+      transform: translateX(0%);
+    }
+}
+.showcase {
+  height: auto;
+}
+.showcase-text {
+  text-align: center;
+  margin-top: 40px;
+  animation: slideInFromTop 1s ease-in;
+}
+.showcase-form {
+  justify-self: center;
+  margin: auto;
+  animation: slideInFromBottom 1s ease-in;
 }
