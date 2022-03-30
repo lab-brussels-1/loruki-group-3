@@ -67,7 +67,6 @@ Some boundaries around our project.
 - Work/life balance
 
   > We all have other matters to attend besides the project Making it difficult
-
   > to be available at all times.  
   > Since we all depend of someone else to review our work. We also require time
   > to discuss in group about what we need. That might complicate our efficiency
