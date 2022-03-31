@@ -113,6 +113,86 @@ h2 {
   height: 100%;
 }
 
+.grid-3 {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+/* Margin */
+
+.my-1 {
+  margin: 1rem 0;
+}
+
+.my-2 {
+  margin: 1.5rem 0;
+}
+
+.my-3 {
+  margin: 2rem 0;
+}
+
+.my-4 {
+  margin: 3rem 0;
+}
+
+.my-5 {
+  margin: 4rem 0;
+}
+
+.m-1 {
+  margin: 1rem;
+}
+
+.m-2 {
+  margin: 1.5rem;
+}
+
+.m-3 {
+  margin: 2rem;
+}
+
+.m-4 {
+  margin: 3rem;
+}
+
+.m-5 {
+  margin: 4rem;
+}
+
+/* Padding */
+
+.py-1 {
+  padding: 1rem 0;
+}
+
+.py-2 {
+  padding: 1.5rem 0;
+}
+
+.py-3 {
+  padding: 2rem 0;
+}
+
+.py-4 {
+  padding: 3rem 0;
+}
+
+.py-5 {
+  padding: 4rem 0;
+}
+
+.p-1 {
+  padding: 1rem;
+}
+
+.p-2 {
+  padding: 3rem;
+}
+
+.p-5 {
+  padding: 4rem;
+}
+
 .showcase .grid {
   overflow: visible;
   grid-template-columns: 55% auto;
@@ -161,15 +241,34 @@ h2 {
   bottom: -70px;
   right: 0;
   left: 0;
-  background-color: #fff;
+  background-color: rgb(247, 211, 134);
   transform: skewY(-3deg);
   -webkit-transform: skewY(-3deg);
   -moz-transform: skewY(-3deg);
   -ms-transform: skewY(-3deg);
 }
 
-/* utilities */
+/* Stats */
+.stats {
+  padding-top: 100px;
+  background-color: hwb(44 49% 5%);
+}
 
+.stats-heading {
+  max-width: 1000px;
+  margin: auto;
+}
+
+.stats.grid h3 {
+  font-size: 35px;
+}
+
+.stats.grid p {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+/* utilities */
 .container {
   max-width: 1100px;
   margin: 0 auto;
@@ -203,6 +302,10 @@ h2 {
 
 .btn:hover {
   transform: scale(0.98);
+}
+
+.text-center {
+  text-align: center;
 }
 
 /* animation */
