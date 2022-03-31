@@ -92,8 +92,8 @@ image {
   height: 400 px;
   background-color: var(--primary-color);
   color: rgb(22, 11, 11);
-  position:relative;
-  font-size: 20px ;
+  position: relative;
+  font-size: 20px;
 }
 
 .showcase-h1,
@@ -242,7 +242,7 @@ h2 {
   bottom: -70px;
   right: 0;
   left: 0;
-  background-color: #fff ;
+  background-color: #fff;
   transform: skewY(-3deg);
   -webkit-transform: skewY(-3deg);
   -moz-transform: skewY(-3deg);
