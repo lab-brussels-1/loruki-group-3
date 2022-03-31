@@ -241,7 +241,7 @@ h2 {
   bottom: -70px;
   right: 0;
   left: 0;
-  background-color: rgb(247, 211, 134);
+  background-color: rgba(242, 245, 89, 0.952);
   transform: skewY(-3deg);
   -webkit-transform: skewY(-3deg);
   -moz-transform: skewY(-3deg);
@@ -251,7 +251,7 @@ h2 {
 /* Stats */
 .stats {
   padding-top: 100px;
-  background-color: hwb(44 49% 5%);
+  background-color: rgba(242, 245, 89, 0.952);
 }
 
 .stats-heading {
@@ -259,13 +259,28 @@ h2 {
   margin: auto;
 }
 
-.stats.grid h3 {
+.stats .grid h3 {
   font-size: 35px;
 }
 
-.stats.grid p {
+.stats .grid p {
   font-size: 20px;
   font-weight: bold;
+}
+
+/* Cli */
+.cli .grid {
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+}
+
+.cli .grid > *:first-child {
+  grid-column: 1 / span 2;
+  grid-row: 1 / span 2;
+}
+
+.cli {
+  background-color: rgba(242, 245, 89, 0.952);
 }
 
 /* utilities */
