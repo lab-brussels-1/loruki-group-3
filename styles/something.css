@@ -252,6 +252,7 @@ h2 {
 .stats {
   padding-top: 100px;
   background-color: rgba(242, 245, 89, 0.952);
+  animation: slideInFromBottom 1s ease-in;
 }
 
 .stats-heading {
