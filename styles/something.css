@@ -383,3 +383,30 @@ h2 {
 .courses {
   background-color: rgb(104, 188, 245);
 }
+
+/* Footer */
+
+.footerb {
+  background-color: rgb(254, 184, 34);
+}
+
+.footer .social a {
+  margin: 0 10px;
+  color: rgb(255, 255, 255);
+}
+
+.fa-github:hover {
+  color: #000;
+}
+
+.fa-facebook:hover {
+  color: #1773ea;
+}
+
+.fa-instagram:hover {
+  color: #b32e87;
+}
+
+.fa-twitter:hover {
+  color: #1c9cea;
+}
