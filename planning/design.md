@@ -11,6 +11,6 @@ For this project we have decided to rebuild a web page called "loruki"
 
 ## Wire frames
 
-This is our Home Page wire frame: (if we need some changes, we can discuss)
+This is our Home Page wire frame:
 
 ![wire frame]('/../../assets/design.png)
