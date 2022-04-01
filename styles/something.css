@@ -367,3 +367,8 @@ h2 {
     transform: translateX(0%);
   }
 }
+
+/* Online Courses */
+.courses {
+  background-color: rgb(104, 188, 245);
+}
