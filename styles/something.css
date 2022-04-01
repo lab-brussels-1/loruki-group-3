@@ -36,6 +36,7 @@ h2 {
   line-height: 1.2;
   margin: 10px 0;
   font-size: 30px;
+  display: left;
 }
 
 p {
@@ -93,6 +94,7 @@ image {
   background-color: var(--primary-color);
   color: rgb(22, 11, 11);
   position: relative;
+  font-size: 20px;
 }
 
 .showcase-h1,
@@ -241,7 +243,7 @@ h2 {
   bottom: -70px;
   right: 0;
   left: 0;
-  background-color: rgba(242, 245, 89, 0.952);
+  background-color: #fff;
   transform: skewY(-3deg);
   -webkit-transform: skewY(-3deg);
   -moz-transform: skewY(-3deg);
@@ -251,7 +253,7 @@ h2 {
 /* Stats */
 .stats {
   padding-top: 100px;
-  background-color: rgba(242, 245, 89, 0.952);
+  background-color: #fff;
   animation: slideInFromBottom 1s ease-in;
 }
 

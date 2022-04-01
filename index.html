@@ -19,6 +19,12 @@
     <div class="navbar">
       <div class="container flex">
         <h1 class="logo">Javascript</h1>
+        <img
+          src="https://t4.ftcdn.net/jpg/04/03/19/53/360_F_403195374_BdhS01bnypx2kBa6Otq0kI8eDmVqntFo.jpg"
+          alt="JS"
+          width="180"
+          height="150"
+        />
         <nav>
           <ul>
             <li><a href="index.html">Home</a></li>
@@ -32,7 +38,7 @@
     <section class="showcase">
       <div class="container grid">
         <div class="showcase-text">
-          <h1>Why Study JavaScript?</h1>
+          <h1>Why study JavaScript?</h1>
           <p>
             JavaScript is one of the 3 languages all web developers must learn.
             - to program the behavior of web pages. It is
@@ -40,33 +46,37 @@
             programming styles.
           </p>
 
-          <a href="Features.html" class="btn outline">READ MORE</a>
+          <a href="features.html" class="btn outline">READ MORE</a>
         </div>
         <!--showcase form-card-->
         <div class="showcase-form card">
           <h2>Request for a demo Class</h2>
-          <div class="form-control">
-            <input
-              type="text"
-              name="First Name"
-              placeholder="First Name"
-              required
-            />
-          </div>
-          <div class="form-control">
-            <input
-              type="text"
-              name="Last Name"
-              placeholder="Last Name"
-              required
-            />
-          </div>
-          <div class="form-control">
-            <input type="email" name="email" placeholder="Email" required />
-          </div>
-          <div class="form-control">
-            <button type="submit" class="btn btn-primary">Send</button>
-          </div>
+          <form method="post" name="contact">
+            <input type="hidden" name="form-name" value="contact" />
+            <p class="hidden"></p>
+            <div class="form-control">
+              <input
+                type="text"
+                name="First Name"
+                placeholder="First Name"
+                required
+              />
+            </div>
+            <div class="form-control">
+              <input
+                type="text"
+                name="Last Name"
+                placeholder="Last Name"
+                required
+              />
+            </div>
+            <div class="form-control">
+              <input type="email" name="email" placeholder="Email" required />
+            </div>
+            <div class="form-control">
+              <button type="submit" class="btn btn-primary">Send</button>
+            </div>
+          </form>
         </div>
       </div>
     </section>
@@ -105,7 +115,7 @@
       <div class="container grid">
         <img src="assets/install.png" alt="" />
         <div class="card">
-          <h3>Build a Javascript Command Line Interface with Node.js</h3>
+          <h3>Build a Javascript command line interface with Node.js</h3>
         </div>
         <div class="card">
           <h3>Deploy in seconds</h3>
