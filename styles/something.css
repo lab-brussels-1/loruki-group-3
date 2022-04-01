@@ -286,6 +286,17 @@ h2 {
   background-color: rgba(242, 245, 89, 0.952);
 }
 
+/* Features */
+.features-head img {
+  width: 400px;
+  justify-self: flex-end;
+}
+
+.features-sub-head img {
+  width: 400px;
+  justify-self: flex-end;
+}
+
 /* utilities */
 .container {
   max-width: 1100px;
