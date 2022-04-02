@@ -4,4 +4,4 @@
 
 ## Our Docs page design web frame
 
-![wire frame]('/../../assets/docs.png)
+![wire frame]('/../../assets/docs1.png)
