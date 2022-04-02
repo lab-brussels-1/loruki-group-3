@@ -4,5 +4,6 @@
   "editor.tabSize": 1,
   "files.autoSave": "onFocusChange",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.comments.insertSpace": false
+  "editor.comments.insertSpace": false,
+  "liveServer.settings.port": 5501
 }
