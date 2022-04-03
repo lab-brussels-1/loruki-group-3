@@ -1,53 +1,36 @@
-# (project name)
+# Loruki website development
 
-<!-- describe your project -->
+- The goal of **Loruki-Group-3** team project is to rebuild the loruki-website.
+- With the help of Traversy's tutorial we have built this website. 
+- Though We have chosen to change the content to Javascript,our main moto was to build the replica of Loruki website.
 
-## Getting Started
+The members of **Group-3** are:
 
-<!-- a guide to using this repository -->
+- [alexanderism55](https://github.com/alexanderism55)
+- [MadhuMNG](https://github.com/MadhuMNG)
+- [NazgulM](https://github.com/NazgulM)
+- [Ufitamahoro](https://github.com/Ufitamahoro)
 
-1. `git clone git@github.com:HackYourFutureBelgium/template-markdown.git`
-2. `cd template-markdown`
-3. `npm install`
+## About our project
 
-## Code Quality Checks
+We have followed the agile methedology for developing out website. Our website content is Javascrit and can find the below informations in out website.
+- Why study JavaScript?
+- Details of javascript courses and KPIs
+- Features and the Most Popular JavaScript Frameworks of 2022
 
-- `npm run format`: Makes sure all the code in this repository is well-formatted
-  (looks good).
-- `npm run lint:ls`: Checks to make sure all folder and file names match the
-  repository conventions.
-- `npm run lint:md`: Will lint all of the Markdown files in this repository.
-- `npm run lint:css`: Will lint all of the CSS files in this repository.
-- `npm run validate:html`: Validates all HTML files in your project.
-- `npm run spell-check`: Goes through all the files in this repository looking
-  for words it doesn't recognize. Just because it says something is a mistake
-  doesn't mean it is! It doesn't know every word in the world. You can add new
-  correct words to the [./.cspell.json](./.cspell.json) file so they won't cause
-  an error.
-- `npm run accessibility -- ./path/to/file.html`: Runs an accessibility analysis
-  on all HTML files in the given path and writes the report to
-  `/accessibility_report`
+## Screenshots
 
-## Continuous Integration (CI)
 
-When you open a PR to `main`/`master` in your repository, GitHub will
-automatically do a linting check on the code in this repository, you can see
-this in the[./.github/workflows/lint.yml](./.github/workflows/lint.yml) file.
+## Technologies
 
-If the linting fails, you will not be able to merge the PR. You can double check
-that your code will pass before pushing by running the code quality scripts
-locally.
+- HTML
+- CSS
+- VS code
 
-## Repo Setup
+## Status
 
-- Give each member _write_ access to the repo (if it's a group project)
-- Turn on GitHub Pages and put a link to your website in the repo's description
-- Turn on GitHub Actions
-- in the _Branches_ section of your repo's settings make sure:
-  - The repository
-    [requires a review](https://github.blog/2018-03-23-require-multiple-reviewers/)
-    before pull requests can be merged.
-  - The `master`/`main` branch must "_Require status checks to pass before
-    merging_"
-  - The `master`/`main` branch must "_Require require branches to be up to date
-    before merging_"
+Project : In progress
+
+## Contact
+
+By [@HYF-team](https://github.com/lab-brussels-1/)
