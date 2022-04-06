@@ -1,9 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap");
 
 :root {
-  --primary-color: rgba(242, 245, 89, 0.952);
-  --success-color: #5cb85c;
-  --error-color: #d9534f;
+  --primary-color: rgba(228, 231, 54, 0.938);
+  --success-color: #f50a78;
+  --error-color: #e2bdbc;
 }
 
 * {
@@ -59,8 +59,8 @@ pre {
 /* navbar */
 
 .navbar {
-  background-color: rgba(105, 134, 51, 0.836);
-  color: #fff;
+  background-color: rgba(17, 1, 1, 0.89);
+  color: #f50a78;
   height: 70px;
 }
 
@@ -73,7 +73,7 @@ pre {
 }
 
 .showcase a {
-  background-color: green;
+  background-color: #f50a78;
 }
 
 .navbar a {
@@ -87,7 +87,7 @@ pre {
 }
 
 .footer h1 {
-  color: rgb(255, 255, 255);
+  color: #f50a78;
 }
 
 footer p {
@@ -95,10 +95,10 @@ footer p {
 }
 
 .navbar a:hover {
-  border-bottom: 2px white solid;
-  border-top: 2px white solid;
-  border-left: 2px white solid;
-  border-right: 2px white solid;
+  border-bottom: 2px rgb(240, 5, 134) solid;
+  border-top: 2px rgb(240, 5, 134) solid;
+  border-left: 2px rgb(240, 5, 134) solid;
+  border-right: 2px rgb(240, 5, 134) solid;
 }
 
 .flex {
@@ -117,7 +117,7 @@ footer p {
 .showcase {
   height: 400 px;
   background-color: var(--primary-color);
-  color: rgb(22, 11, 11);
+  color: rgb(10, 3, 3);
   position: relative;
   font-size: 20px;
 }
@@ -297,12 +297,12 @@ h2 {
 }
 
 .docs-header {
-  background-color: hsl(214, 83%, 50%);
+  background-color: rgba(17, 1, 1, 0.89);
 }
 
 .docs-head {
-  color: rgb(255, 254, 254);
-  background-color: #1773ea;
+  color: rgb(26, 14, 14);
+  background-color: rgba(228, 231, 54, 0.938);
 }
 
 .docs-head img {
@@ -349,7 +349,7 @@ h2 {
 }
 
 .cli {
-  background-color: rgba(242, 245, 89, 0.952);
+  background-color: #fff;
 }
 
 /* Alert */
@@ -400,6 +400,7 @@ h2 {
 .features__main h1 {
   padding: 10px 0;
   font-style: bold;
+  background-color: rgba(228, 231, 54, 0.938);
 }
 
 .features__main .card > i {
@@ -442,7 +443,7 @@ h2 {
   padding: 10px 30px;
   margin: 25px;
   cursor: pointer;
-  background-color: green;
+  background-color: #f50a78;
   color: #fff;
   border: none;
   border-radius: 10px;
@@ -505,7 +506,9 @@ h2 {
 
 /* Online Courses */
 .courses {
-  background-color: rgb(104, 188, 245);
+  background-color: rgba(228, 231, 54, 0.938);
+  color: rgb(24, 2, 15);
+  font-style: bold;
 }
 
 /* Other Languages */
@@ -552,5 +555,12 @@ h2 {
 }
 
 .footer {
-  background-color: rgba(221, 28, 28, 0.849);
+  background-color: rgba(17, 1, 1, 0.89);
+}
+
+.footer a:hover {
+  border-bottom: 2px rgb(240, 5, 134) solid;
+  border-top: 2px rgb(240, 5, 134) solid;
+  border-left: 2px rgb(240, 5, 134) solid;
+  border-right: 2px rgb(240, 5, 134) solid;
 }
