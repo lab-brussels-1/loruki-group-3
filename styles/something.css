@@ -55,8 +55,16 @@ image {
   height: 70px;
 }
 
+.docs-nav a {
+  color: gray;
+}
+
 .navbar ul {
   display: flex;
+}
+
+.showcase a {
+  background-color: green;
 }
 
 .navbar a {
@@ -65,8 +73,16 @@ image {
   margin: 0 5px;
 }
 
-.showcase a {
-  background-color: green;
+.footer ul a {
+  color: white;
+}
+
+.footer h1 {
+  color: rgb(255, 255, 255);
+}
+
+footer p {
+  color: white;
 }
 
 .navbar a:hover {
@@ -251,6 +267,7 @@ h2 {
 }
 
 /* Stats */
+
 .stats {
   padding-top: 100px;
   background-color: #fff;
@@ -272,6 +289,7 @@ h2 {
 }
 
 /* Cli */
+
 .cli .grid {
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: repeat(2, 1fr);
@@ -287,6 +305,7 @@ h2 {
 }
 
 /* Features */
+
 .features-head img {
   width: 400px;
   justify-self: flex-end;
@@ -330,6 +349,7 @@ h2 {
 }
 
 /* utilities */
+
 .container {
   max-width: 1100px;
   margin: 0 auto;
@@ -436,11 +456,27 @@ h2 {
   margin-bottom: 10px;
 }
 
-/* Footer */
+/* docs */
 
-.footerb {
-  background-color: rgb(254, 184, 34);
+.docs-header {
+  background-color: hsl(214, 83%, 50%);
 }
+
+.docs-head {
+  color: rgb(255, 254, 254);
+  background-color: #1773ea;
+}
+
+.docs-head img {
+  width: 200px;
+  justify-self: flex-end;
+}
+
+.docs-head h1 {
+  font-size: 70px;
+}
+
+/* Footer */
 
 .footer .social a {
   margin: 0 10px;
@@ -461,4 +497,8 @@ h2 {
 
 .fa-twitter:hover {
   color: #1c9cea;
+}
+
+.footer {
+  background-color: rgba(221, 28, 28, 0.849);
 }
