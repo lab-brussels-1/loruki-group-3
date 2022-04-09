@@ -12,7 +12,8 @@
   - As a new developers interested in `Javascript` User need to know the title
     is relatable to `Javascript`.
     - [ ] _there is a content explains what is `Javascript`_
-  - As a beginner coder user need to know something about the use of `Javascript`.
+  - As a beginner coder user need to know something about the use of
+    `Javascript`.
     - [ ] _there is a content explains how to use `Javascript`_
   - As a beginner coder who is interested in learning, user can send a request
     to demo-class.
