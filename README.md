@@ -20,7 +20,7 @@ content is Javascript and can find the below informations in our website.
 - Why study JavaScript?
 - Details of Javascript courses and KPIs
 - Features and the Most Popular JavaScript Frameworks of 2022
-- Doculentqtion and requirements for installation.
+- Documentation and requirements for installation.
 
 ## Screenshots
 
