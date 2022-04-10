@@ -22,8 +22,6 @@ content is Javascript and can find the below informations in our website.
 - Features and the Most Popular JavaScript Frameworks of 2022
 - Documentation and requirements for installation.
 
-## Screenshots
-
 ## Technologies
 
 - HTML
