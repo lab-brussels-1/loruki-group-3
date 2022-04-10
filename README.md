@@ -15,11 +15,12 @@ The members of **Group-3** are:
 ## About our project
 
 We have followed the agile methedology for developing out website. Our website
-content is Javascrit and can find the below informations in out website.
+content is Javascript and can find the below informations in our website.
 
 - Why study JavaScript?
-- Details of javascript courses and KPIs
+- Details of Javascript courses and KPIs
 - Features and the Most Popular JavaScript Frameworks of 2022
+- Doculentqtion and requirements for installation.
 
 ## Screenshots
 
