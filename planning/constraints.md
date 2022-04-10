@@ -1,4 +1,4 @@
-# Constrains
+# Constraints
 
 Some boundaries around our project.
 
