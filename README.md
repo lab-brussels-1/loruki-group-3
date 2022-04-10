@@ -32,7 +32,7 @@ content is Javascript and can find the below informations in our website.
 
 ## Status
 
-Project : In progress
+Project : Finished
 
 ## Contact
 
