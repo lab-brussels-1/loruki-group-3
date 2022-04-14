@@ -46,7 +46,7 @@ How often will we get in touch on each channel, and what we will discuss there:
 
 | Day         |   Monday    |   Tuesday   |  Wednesday  |  Thursday   |   Friday    |   Saturday   |
 | ----------- | :---------: | :---------: | :---------: | :---------: | :---------: | :----------: |
-| _Josee_     | 10am - 12pm | 10am - 8pm  | 10am - 11pm | 10am - 11pm | 10am - 4pm  | 10am - 11pm  |
+| _Josee_     | 10am - 12pm | 10am - 8pm  | 10am - 11pm | 10am - 11pm | 10am - 4pm  | 10am - 12pm  |
 | _Alexander_ | 7am - 11pm  | 7am - 11pm  | 7am - 11pm  | 8am - 11pm  | 8am - 11pm  |  8am - 11pm  |
 | _Nazgul_    | 10am - 7pm  | 10am - 11pm | 10am - 2am  | 10am - 6pm  | 10am - 11pm | 10am - 11pm  |
 | _Madhu_     | 10am - 11pm | 10am - 11pm | 10am - 11pm | 10am - 11pm | 10am - 11pm | 10 am - 11pm |
